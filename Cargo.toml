@@ -1,5 +1,5 @@
 [workspace]
 
-members = [ "async_get",
+members = [ "api_call", "async_get", "auth_simple",
      "compress_file", "decompress_file", "for_test"
 , "get_request", "read_csv", "read_json", "write_json"]
