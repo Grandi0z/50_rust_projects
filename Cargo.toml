@@ -2,4 +2,5 @@
 
 members = [ "api_call", "async_get", "auth_simple",
      "compress_file", "decompress_file", "for_test"
-, "get_request", "read_csv", "read_json", "write_json"]
+, "get_request", "postgres_connect", "read_csv", "read_json", "web_api_actix_and_rhai", "write_json"]
+resolver = "2"

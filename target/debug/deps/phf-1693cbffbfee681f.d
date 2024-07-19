@@ -1,0 +1,11 @@
+/mnt/c/Users/Joseph/Documents/CLASS/Rust/exercises/50_project_akhil_sharma/target/debug/deps/libphf-1693cbffbfee681f.rmeta: /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/lib.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/map.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_map.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_set.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/set.rs
+
+/mnt/c/Users/Joseph/Documents/CLASS/Rust/exercises/50_project_akhil_sharma/target/debug/deps/libphf-1693cbffbfee681f.rlib: /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/lib.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/map.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_map.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_set.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/set.rs
+
+/mnt/c/Users/Joseph/Documents/CLASS/Rust/exercises/50_project_akhil_sharma/target/debug/deps/phf-1693cbffbfee681f.d: /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/lib.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/map.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_map.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_set.rs /home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/set.rs
+
+/home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/lib.rs:
+/home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/map.rs:
+/home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_map.rs:
+/home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_set.rs:
+/home/grandi0z/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/set.rs:

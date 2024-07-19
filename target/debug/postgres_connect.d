@@ -1,0 +1,1 @@
+/mnt/c/Users/Joseph/Documents/CLASS/Rust/exercises/50_project_akhil_sharma/target/debug/postgres_connect: /mnt/c/Users/Joseph/Documents/CLASS/Rust/exercises/50_project_akhil_sharma/postgres_connect/src/main.rs
